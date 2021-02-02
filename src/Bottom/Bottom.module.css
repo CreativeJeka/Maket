@@ -1,0 +1,171 @@
+.Bot {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 0px;
+    top: 1080px;
+    width: 1920px;
+    height: 1080px;
+
+}
+
+.Items {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 4000px;
+    height: 2500px;
+    z-index: 22;
+}
+
+.Line {
+    border-color: grey;
+    border-style: solid;
+    position: absolute;
+    left: 67px;
+    top: 100px;
+    width: 1776px;
+    height: 0;
+    z-index: 23;
+}
+
+.Home {
+    font-size: 24px;
+    font-family: "Calibri";
+    color: grey;
+    text-transform: uppercase;
+    line-height: 1.2;
+    position: absolute;
+    left: 652.937px;
+    top: 35.6px;
+    outline: none;
+    border: 0;
+    background: transparent;
+}
+
+.About_Me_ {
+    font-size: 24px;
+    font-family: "Calibri";
+    color: grey;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 775.844px;
+    top: 34.6px;
+    outline: none;
+    border: 0;
+    background: transparent;
+}
+
+.Portfolio {
+    font-size: 24px;
+    font-family: "Calibri";
+    color: grey;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 951.937px;
+    top: 35.6px;
+    outline: none;
+    border: 0;
+    background: transparent;
+}
+
+.Contact {
+    font-size: 24px;
+    font-family: "Calibri";
+    color: grey;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 1145.937px;
+    top: 35.6px;
+    outline: none;
+    border: 0;
+    background: transparent;
+}
+.Photo {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 4000px;
+    height: 2000px;
+    z-index: 15;
+}
+.Jason_Wood {
+    background-image: url("/src/images/Photo.png");
+    position: absolute;
+    left: 164px;
+    top: 150px;
+    width: 771px;
+    height: 700px;
+    z-index: 14;
+}
+.About_Me {
+    font-size: 40px;
+    font-family: "Calibri";
+    color: rgb(32, 32, 32);
+    text-transform: uppercase;
+    line-height: 2;
+    text-align: left;
+    position: absolute;
+    left: 1000px;
+    top: 250px;
+    letter-spacing: 5px;
+
+}
+.Lorem1 {
+    font-family: "Calibri";
+    position: absolute;
+    left: 987px;
+    top: 350px;
+    width: 673px;
+    height: 300px;
+    line-height: 30px;
+
+}
+.Lorem2 {
+    font-family: "Calibri";
+    position: absolute;
+    left: 987px;
+    top: 500px;
+    width: 673px;
+    height: 300px;
+    line-height: 30px;
+
+}
+.Jason_Wood2 {
+    font-size: 36px;
+    font-family: "Calibri";
+    color: rgb(32, 32, 32);
+    line-height: 1.389;
+    position: absolute;
+    left: 980.497px;
+    top: 600px;
+
+}
+.keep{
+    font-size: 18px;
+    font-family: "Calibri";
+    color: grey;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 780px;
+    top: 950px;
+
+}
+.Double_Arrow {
+    background-image: url("/src/images/Double Arrow2.png");
+    position: absolute;
+    left: 945px;
+    top: 1000px;
+    width: 32px;
+    height: 32px;
+
+}
+
+

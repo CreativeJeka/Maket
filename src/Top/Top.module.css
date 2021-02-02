@@ -1,0 +1,108 @@
+.Bac {
+    background-image: url(/src/images/Background.png);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 1080px;
+    z-index: 27;
+
+}
+
+.Line {
+    border-color: white;
+    border-style: solid;
+    position: absolute;
+    left: 67px;
+    top: 100px;
+    width: 1776px;
+    height: 0;
+    z-index: 39;
+
+}
+.Home {
+    font-size: 24px;
+    font-family: "Calibri";
+    color: white;
+    text-transform: uppercase;
+    line-height: 1.2;
+    position: absolute;
+    left: 653.937px;
+    top: 35.6px;
+    outline: none;
+    border: 0;
+    background: transparent;
+}
+
+.About_Me {
+    font-size: 24px;
+    font-family: "Calibri";
+    color: white;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 776.844px;
+    top: 34.6px;
+    outline: none;
+    border: 0;
+    background: transparent;
+}
+
+.Portfolio {
+    font-size: 24px;
+    font-family: "Calibri";
+    color: white;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 952.937px;
+    top: 35.6px;
+    outline: none;
+    border: 0;
+    background: transparent;
+}
+
+.Contact {
+    font-size: 24px;
+    font-family: "Calibri";
+    color: white;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 1146.937px;
+    top: 35.6px;
+    outline: none;
+    border: 0;
+    background: transparent;
+}
+.scroll_down_to_see_more {
+    font-size: 18px;
+    font-family: "Calibri";
+    color: white;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 850px;
+    top: 952.7px;
+}
+.Double_Arrow {
+    background-image: url("/src/images/Double Arrow.png");
+    position: absolute;
+    left: 945px;
+    top: 995px;
+    width: 32px;
+    height: 32px;
+    z-index: 29;
+}
+
+
+
+
+
+
+
+
